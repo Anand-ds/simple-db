@@ -1,4 +1,4 @@
-# simple-db
+# simple-db (a simple database)
 A tiny, append-only key–value store implemented in pure Bash (a text file and a couple of Bash functions). Demonstrates database use of append-only logs.
 
 ## Features at a glance
@@ -9,7 +9,7 @@ A tiny, append-only key–value store implemented in pure Bash (a text file and 
 
 Educational — mirrors the core of real database internals
 
-## How it works
+## and let me tell you how it works
 Each call to db_set appends a line to a log file:
 ```
 Example log entry:
