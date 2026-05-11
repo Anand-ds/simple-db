@@ -1,0 +1,11 @@
+user:002	{"name":"Lakshmi","role":"editor"}
+user:001	{"name":"Anand","role":"superadmin"}
+city:london	{"name":"London","population":9304016,"tags":["capital","uk","europe"]}
+avatar:42	Y3JlYXRlIGEgYXZhdGFyIGltYWdlCvCfjpM=
+event:1778511660	User logged in
+balance:anand	+10
+balance:anand	-14
+balance:anand	+40
+balance:anand	+10
+balance:anand	-3
+balance:anand	+7
